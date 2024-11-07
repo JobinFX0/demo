@@ -1,2 +1,2 @@
 # demo
-this is for leaning purpose,and this my first repository
+this is for learning purpose,and this my first repository
